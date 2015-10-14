@@ -1,0 +1,15 @@
+{
+  "name": "p11-test",
+  "version": "0.0.0",
+  "description": "P11",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dragan Zuvic",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^2.5.0"
+  }
+}
